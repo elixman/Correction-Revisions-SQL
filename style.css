@@ -1,0 +1,52 @@
+body{
+    background-color: #eee;
+}
+.jumbotron{
+    margin-top: 20px;
+}
+hr{
+    margin: inherit;
+    padding: inherit;
+    border: 0;
+    height: 2px;
+    background-image: -webkit-linear-gradient(left, #31445c, #598AC7, #31445c);
+    background-image: -moz-linear-gradient(left, #31445c, #598AC7, #31445c);
+    background-image: -ms-linear-gradient(left, #31445c, #598AC7, #31445c);
+    background-image: -o-linear-gradient(left, #31445c, #598AC7, #31445c);
+}
+h1{
+    text-align: center;
+}
+h2, span{
+    margin: inherit;
+    padding: inherit;
+    text-align: center;
+}
+.list-group-item-info{
+    padding: 10px;
+    margin-top:10px;
+    margin-bottom:0;
+    border: 2px solid #4B98BE ;
+}
+.title{
+    padding: 10px;
+    color: #fff;
+    background-image: -webkit-linear-gradient(left, #31445c, #598AC7, #31445c);
+    background-image: -moz-linear-gradient(left, #31445c, #598AC7, #31445c);
+    background-image: -ms-linear-gradient(left, #31445c, #598AC7, #31445c);
+    background-image: -o-linear-gradient(left, #31445c, #598AC7, #31445c);
+}
+.table{
+    background-color: #eee;
+}
+.show{
+   border: 2px solid #4B98BE;
+   border-top: none;
+}
+.card-body{
+    padding:10px;
+}
+.list-group-item-success{
+    font-weight: bold;
+    font-size: 1.5rem;
+}
